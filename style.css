@@ -1,0 +1,18 @@
+/* em vs rem */
+
+html{
+    font-size: 16px;
+}
+
+.parent{
+    font-size: 1.8rem;
+}
+
+.test-em{
+    font-size: 0.2em;
+}
+
+.test-rem{
+    font-size: 2rem;
+}
+
